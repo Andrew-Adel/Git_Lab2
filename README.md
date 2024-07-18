@@ -1,5 +1,6 @@
 # Lab2 Git Part 1
 ## 1. create new project on local and push it to the remote repo
+![Screenshot from 2024-07-17 23-27-48](https://github.com/user-attachments/assets/ea1e2539-f186-418d-b9f8-ddaee2e8c9ba)
 ![Screenshot from 2024-07-18 00-29-31](https://github.com/user-attachments/assets/b1477c36-ca50-4d7d-be5a-9b8bf7700786)
 ```javascript
 mkdir myproject
